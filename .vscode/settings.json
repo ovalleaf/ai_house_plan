@@ -1,0 +1,17 @@
+{
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "eslint.validate": ["javascript"],
+  "eslint.workingDirectories": [
+    {
+      "mode": "auto"
+    }
+  ],
+  "cSpell.words": [
+    "openai"
+  ],
+    "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit",
+    "source.fixAll": "explicit"
+  }
+}
